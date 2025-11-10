@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-quotivation/static/css/main.a7c8618e.css",
+    "main.js": "/react-hooks-quotivation/static/js/main.36a726c4.js",
+    "index.html": "/react-hooks-quotivation/index.html",
+    "main.a7c8618e.css.map": "/react-hooks-quotivation/static/css/main.a7c8618e.css.map",
+    "main.36a726c4.js.map": "/react-hooks-quotivation/static/js/main.36a726c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c8618e.css",
+    "static/js/main.36a726c4.js"
+  ]
+}
