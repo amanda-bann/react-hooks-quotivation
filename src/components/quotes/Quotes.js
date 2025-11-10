@@ -6,7 +6,7 @@ import CategoryForm from "./CategoryForm";
 function Quotes ({ filteredQuotes, categories, category, handleCategoryChange, addToFavorites, favoriteQuotes }) {
     return (
         <section className="all-quotes">
-            {console.log(filteredQuotes)};
+            {/* {console.log(filteredQuotes)}; */}
             <div className="quotes wrapper">
                 <div className="category-header">
                     <h2 className="category-header">Pick your Favorite Quotes Below</h2>
